@@ -27,3 +27,7 @@ git pull <url> //directly merge the pulled code with the current code
 git remote set-url origin <url> //change url
 git remote rename origin newurl <url>
 git remote add origin <url>
+  
+  ////////////
+  helpful extensions for visual studio code: 
+  1. bracket pair colorizer
